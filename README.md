@@ -1,6 +1,6 @@
 # Information Security
 
-## Introduction to Information Security
+## Introduction
 
 Information security is the practice of protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction. It involves implementing measures to ensure the **confidentiality**, **integrity**, and **availability** of data. InfoSec is crucial for:
 
